@@ -1,0 +1,33 @@
+body{
+   background:url("D:/alal/image/background.png") no-repeat right fixed;
+background-size: 850px;
+  }
+h2{
+
+  color: red;
+  font-size: 40px;
+}
+main{
+  padding: 20px;
+      border-width: 5px;
+    border-style: groove;
+      border-color: red;
+}
+.second-couplet{
+margin-left: 400px;
+margin-top: -250px;
+
+}
+.fourth-couplet{
+  margin-left: 400px;
+  margin-top: -250px
+}
+div{
+
+  color: red;
+  font-style: italic;
+  font-size:20px;
+}
+.author{
+  margin-left:110px;
+}
